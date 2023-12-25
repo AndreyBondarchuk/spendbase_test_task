@@ -1,0 +1,104 @@
+{
+  "name": "root",
+  "type": "folder",
+  "uuid": "1fd81542-d1bf-4c16-bc16-f7f3f8ff7e0a",
+  "children": [
+    {
+      "name": "folder2",
+      "type": "folder",
+      "uuid": "a65e7e9b-cc4e-47c5-9143-1ea56f15d4f0",
+      "children": [
+        {
+          "name": "file1",
+          "type": "file",
+          "uuid": "7a953787-413f-4a7e-b45d-55b1432b413d"
+        },
+        {
+          "name": "file2",
+          "type": "file",
+          "uuid": "8240b66f-0f56-4f11-9942-9d92e249174d"
+        },
+        {
+          "name": "file3",
+          "type": "file",
+          "uuid": "9ee97b2e-17b5-465f-b89b-0aa7cf1abf7e"
+        },
+        {
+          "name": "folder3",
+          "type": "folder",
+          "uuid": "1c8371ef-d936-4ddc-afff-efc102797e56",
+          "children": [
+            {
+              "name": "file1",
+              "type": "file",
+              "uuid": "4e46c820-9f52-4407-a21d-31b89b5baf10"
+            },
+            {
+              "name": "test123",
+              "type": "file",
+              "uuid": "8827be6f-a845-411a-b917-1e5c751bf433"
+            },
+            {
+              "name": "file3",
+              "type": "file",
+              "uuid": "92ea6078-091d-43b2-be57-ebb61960adda"
+            },
+            {
+              "name": "folder4",
+              "type": "folder",
+              "uuid": "1db442bb-d24a-4a10-8e09-56e165ae3e35",
+              "children": [
+                {
+                  "name": "file16",
+                  "type": "file",
+                  "uuid": "5cb92b07-4a00-4a97-b5ea-7d6530cac800"
+                },
+                {
+                  "name": "file17",
+                  "type": "file",
+                  "uuid": "121826f4-2e20-4a9b-8c29-f41bc30f8e14"
+                },
+                {
+                  "name": "file18",
+                  "type": "file",
+                  "uuid": "a88fbf1a-6654-4f2f-87b6-401d3b04fa28"
+                },
+                {
+                  "name": "file19",
+                  "type": "file",
+                  "uuid": "9f182cb7-b244-4631-820a-7ddd10942fad"
+                },
+                {
+                  "name": "file20",
+                  "type": "file",
+                  "uuid": "bcba1eeb-1aa6-42d8-90a7-8bf7b91d9517"
+                },
+                {
+                  "name": "file21",
+                  "type": "file",
+                  "uuid": "4e500b3f-badd-4136-9ad0-8c32c4327487"
+                },
+                {
+                  "name": "file22",
+                  "type": "file",
+                  "uuid": "120f7909-af1c-4241-8f31-9f7e9b61e5cc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "folder1",
+      "type": "folder",
+      "uuid": "db2447d2-6709-4e42-8c5e-56fb738d7d52",
+      "children": []
+    },
+    {
+      "name": "file",
+      "type": "file",
+      "uuid": "1db442bb-d24a-4a10-8e09-5de168ae3e35"
+    }
+  ]
+}
