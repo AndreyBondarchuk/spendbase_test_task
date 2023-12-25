@@ -58,7 +58,22 @@ describe("filterBy function", () => {
 
   it("should handle case-insensitive queries", () => {
     const result = filterBy(rootFolder, "folder2");
-    expect(result).toEqual(null);
+    expect(result).toEqual({
+      children: [
+        {
+          children: [
+            { name: "File3.txt", type: "file", uuid: "3" },
+            { name: "File4.txt", type: "file", uuid: "4" },
+          ],
+          name: "Folder2",
+          type: "folder",
+          uuid: "7",
+        },
+      ],
+      name: "Root",
+      type: "folder",
+      uuid: "6",
+    });
   });
 
   it("should handle nested queries", () => {
