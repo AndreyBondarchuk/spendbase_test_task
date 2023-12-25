@@ -1,10 +1,10 @@
 # Spendbase_test_task
 
 ## Navigation
-- [Run developed application locally](https://github.com/AndreyBondarchuk/spendbase_test_task?tab=readme-ov-file#run-developed-application-locally)
-- [Description](https://github.com/AndreyBondarchuk/spendbase_test_task?tab=readme-ov-file#description)
-- [Live-demo](https://github.com/AndreyBondarchuk/spendbase_test_task?tab=readme-ov-file#live-demo)
-- [Search investigation](https://github.com/AndreyBondarchuk/spendbase_test_task?tab=readme-ov-file#search-investigation)
+- [Run developed application locally](https://github.com/AndreyBondarchuk/spendbase_test_task/tree/master?tab=readme-ov-file#run-developed-application-locally)
+- [Description](https://github.com/AndreyBondarchuk/spendbase_test_task/tree/master?tab=readme-ov-file#description)
+- [Live-demo](https://github.com/AndreyBondarchuk/spendbase_test_task/tree/master?tab=readme-ov-file#live-demo)
+- [Search investigation](https://github.com/AndreyBondarchuk/spendbase_test_task/tree/master?tab=readme-ov-file#search-investigation)
 ## Run developed application locally
 
 1. Clone repo
