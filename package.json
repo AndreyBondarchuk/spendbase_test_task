@@ -1,7 +1,7 @@
 {
   "name": "spendbase_test_task",
   "version": "0.1.0",
-  "homepage": "https://github.com/AndreyBondarchuk.github.io/spendbase_test_task",
+  "homepage": "https://AndreyBondarchuk.github.io/spendbase_test_task",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
