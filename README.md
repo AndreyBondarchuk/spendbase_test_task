@@ -37,6 +37,8 @@ Implemented:
 
 ## Live-demo
 
+[Live-demo](https://andreybondarchuk.github.io/spendbase_test_task/)
+
 ## Search investigation
 For performance testing, used [https://perf.link/](https://perf.link/)
 Tested three variants of finding elements in a nested object and the choosed method with the best performance
